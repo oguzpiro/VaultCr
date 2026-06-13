@@ -1,6 +1,8 @@
 # 🔐 VaultCr
 
 🌐 **[https://vaultcr.gt.tc/](https://vaultcr.gt.tc/)**
++2349 HESAP EKLENDİ
+TOPLAM HESAP: 10214
 
 **VaultCr**, davetiye ile üye olabileceğin özel bir hesap dağıtım platformudur.
 
